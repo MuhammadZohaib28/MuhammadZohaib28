@@ -33,6 +33,10 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muhammadzohaib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muhammadzohaib" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadzohaib28&show_icons=true&locale=en" alt="muhammadzohaib28" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuhammadZohaib28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZohaib28&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZohaib28&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzohaib28&" alt="muhammadzohaib28" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=MuhammadZohaib28&icon=0&color=0)](https://visitcount.itsvg.in)
