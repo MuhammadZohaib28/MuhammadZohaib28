@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://muhammadzuhaib.vercel.app/](https://muhammadzuhaib-git-master-muhammadzohaib28.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://muhammadzuhaib.vercel.app/](https://muhammadzuhaib.vercel.app/)
 
 - 💬 Ask me about **ReactJS, JS, SCSS**
 
