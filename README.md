@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammadzuhaib.vercel.app/](https://muhammadzuhaib.vercel.app/)
 
-- 💬 Ask me about **ReactJS, JS, SCSS**
+- 💬 Ask me about **NextJS,ReactJS, JS, TailwindCSS, Frontend, FullStack**
 
 - 📫 How to reach me **zohaibsoomro0101@gmail.com**
 
